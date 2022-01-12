@@ -1,5 +1,5 @@
 {
-  "name": "grunt-uncss",
+  "name": "@picsio/grunt-uncss",
   "description": "A grunt task for generating CSS files containing only those styles used in your project.",
   "version": "0.10.1",
   "homepage": "https://github.com/uncss/grunt-uncss",
